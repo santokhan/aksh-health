@@ -1,1 +1,13 @@
 /* Place your CSS here */
+
+.w-180 {
+    width: 180px;
+}
+
+.h-180 {
+    height: 180px;
+}
+
+.hidden {
+    display: none;
+}
